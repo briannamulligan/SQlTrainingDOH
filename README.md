@@ -1,20 +1,20 @@
 # SQlTrainingDOH
 Links and resources for the Project ECHO and DOH joint training sessions
 
-##Week 1 links:
+## Week 1 links:
 
 SQLite Online- https://sqliteonline.com/
 SQLite Online with Northwind DBs loaded- https://sqliteonline.com/#urldb=https://raw.githubusercontent.com/jpwhite3/northwind-SQLite3/master/dist/northwind.db
 Northwind- https://en.wikiversity.org/wiki/Database_Examples/Northwind/
 
-##Week 2 Links:
+## Week 2 Links:
 
 SQLite Online with Northwind DBs loaded- https://sqliteonline.com/#urldb=https://raw.githubusercontent.com/jpwhite3/northwind-SQLite3/master/dist/northwind.db
 
 
 
 
-Additonal resources:
+## Additonal resources:
 
 [Book] H.Garcia-Molina, J.Ullman, and J.Widom, “Database Systems: The Complete Book”, 2nd Edition, Pearson, 2008.
 
