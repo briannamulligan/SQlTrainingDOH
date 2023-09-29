@@ -4,7 +4,9 @@ Links and resources for the Project ECHO and DOH joint training sessions
 ## Week 1 links:
 
 SQLite Online- https://sqliteonline.com/
+
 SQLite Online with Northwind DBs loaded- https://sqliteonline.com/#urldb=https://raw.githubusercontent.com/jpwhite3/northwind-SQLite3/master/dist/northwind.db
+
 Northwind- https://en.wikiversity.org/wiki/Database_Examples/Northwind/
 
 ## Week 2 Links:
