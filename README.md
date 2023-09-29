@@ -15,11 +15,12 @@ SQLite Online with Northwind DBs loaded- https://sqliteonline.com/#urldb=https:/
 
 
 Additonal resources:
+
 [Book] H.Garcia-Molina, J.Ullman, and J.Widom, “Database Systems: The Complete Book”, 2nd Edition, Pearson, 2008.
 	First two chapters available: http://infolab.stanford.edu/~ullman/dscb.html
-[IBM1] https://www.ibm.com/docs/en/zos-basic-skills?topic=zos-what-is-database-management-system
+ [IBM1] https://www.ibm.com/docs/en/zos-basic-skills?topic=zos-what-is-database-management-system
 [IBM2] “What is a relational database?”, 
-https://www.ibm.com/topics/relational-databases#:~:text=the%20next%20step-,What%20is%20a%20relational%20database%3F,key%20or%20a%20foreign%20key.
+https://www.ibm.com/topics/relational-databases#:~:text=the%20next%20step-,What%20is%20a%20relational%20database%3F,key%20or%20a%20foreign%20key
 [MongoDB] https://www.mongodb.com/basics/acid-transactions
 [Wiki] https://en.wikiversity.org/wiki/Database_Examples/Northwind
 
