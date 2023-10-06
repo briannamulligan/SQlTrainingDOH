@@ -12,6 +12,7 @@ Northwind- https://en.wikiversity.org/wiki/Database_Examples/Northwind/
 ## Week 2 Links:
 
 SQLite Online with Northwind DBs loaded- https://sqliteonline.com/#urldb=https://raw.githubusercontent.com/jpwhite3/northwind-SQLite3/master/dist/northwind.db
+
 HW:
 1. Write a query to get Product name and quantity per unit.
 2. Write a query to get current Product list (Product ID and name).
