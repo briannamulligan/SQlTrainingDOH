@@ -24,6 +24,15 @@ HW:
 8. Write a query to count current and discontinued products.
 9. Write a query to get Product list (name, units on order , units in stock) of stock is less than the quantity on order.
 
+## Week 3 links:
+SQLite Online with Northwind DBs loaded- https://sqliteonline.com/#urldb=https://raw.githubusercontent.com/jpwhite3/northwind-SQLite3/master/dist/northwind.db
+HW:
+All together: Provide total quantity, total sum of ordered stuff (with applied discounts) per customer, showing also amounts per category + showing flag if customer has both anything for particular category
+If time or as homework:
+1.List all Suppliers with all Products (ID, Name) they offer
+2.Number of Orders by Customer Country and Year
+3.Count of how many employees are associated with no orders, one order, or more than one order
+
 
 ## Additonal resources:
 
@@ -39,6 +48,12 @@ https://www.ibm.com/topics/relational-databases#:~:text=the%20next%20step-,What%
 [MongoDB] https://www.mongodb.com/basics/acid-transactions
 
 [Wiki] https://en.wikiversity.org/wiki/Database_Examples/Northwind
+[SQLiteonline] https://sqliteonline.com/#urldb=https://raw.githubusercontent.com/jpwhite3/northwind-SQLite3/master/dist/northwind.db
+[Wiki] https://en.wikiversity.org/wiki/Database_Examples/Northwind
+[Time math] https://www.sqlite.org/lang_datefunc.html
+[Get R ] https://www.stat.colostate.edu/~jah/talks_public_html/isec2020/installRStudio.html
+
+
 
 
 If looking to manipulate your own data on your local: 
